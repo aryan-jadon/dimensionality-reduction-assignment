@@ -1,4 +1,7 @@
+# Please Refer Google Colab Link for Visualization of 2d and 3d Plots - https://colab.research.google.com/drive/1rOVqvg5lVDIQFe1zxkOiguAhWSF3j_Mn?usp=sharing
+
 # Dimensionality Reduction Assignment Conclusion
+
 
 ### Techniques for dimensionality reductions are - PCA, SVD, LLE, t-SNE, ISOMA ,UMAP
 
